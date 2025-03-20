@@ -13,4 +13,8 @@ Creating a sales dashboard in Power BI involves developing an interactive report
 https://github.com/NIKHIL-1200/power-bi-dashboard/blob/main/task1.com.pbix
 
 
+
+Creating a Power BI report that integrates data from multiple sources involves connecting to various data repositories, transforming and combining the data, and then designing interactive visualizations to derive insights. 
+
+
 https://github.com/NIKHIL-1200/power-bi-dashboard/blob/main/task2.a.pbix
