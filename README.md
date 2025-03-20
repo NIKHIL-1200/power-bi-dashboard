@@ -10,17 +10,17 @@ Creating a sales dashboard in Power BI involves developing an interactive report
 
 
 
-https://github.com/NIKHIL-1200/power-bi-dashboard/blob/main/task1.com.pbix
+https://github.com/NIKHIL-1200/power-bi-dashboard/blob/main/task1.com.pbix.
 
 
 
 Creating a Power BI report that integrates data from multiple sources involves connecting to various data repositories, transforming and combining the data, and then designing interactive visualizations to derive insights. 
 
 
-https://github.com/NIKHIL-1200/power-bi-dashboard/blob/main/task2.a.pbix
+https://github.com/NIKHIL-1200/power-bi-dashboard/blob/main/task2.a.pbix.
 
 
-
+##INTEGRATION WITH PYTHON
 
 Integrating Python or R scripts into Power BI allows you to leverage the power of these programming languages for more advanced data analysis, transformations, or custom visualizations within Power BI. This can be particularly useful when you need to perform complex calculations or build sophisticated models that aren't readily available with Power BI's built-in features.
 
