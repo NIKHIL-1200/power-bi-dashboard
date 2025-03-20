@@ -3,7 +3,7 @@ A sales dashboard is a visual tool that displays key sales performance metrics, 
 
 
 
-#Data.
+Data.
 
 
 Creating a sales dashboard in Power BI involves developing an interactive report that provides insights into sales trends, top-performing products, and regional performance. This dashboard serves as a powerful tool for businesses to monitor key performance indicators (KPIs), identify growth opportunities, and make data-driven decisions.
@@ -19,7 +19,7 @@ Creating a Power BI report that integrates data from multiple sources involves c
 
 https://github.com/NIKHIL-1200/power-bi-dashboard/blob/main/task2.a.pbix.
 
-#integration with python
+Integration with python.
 
 Integrating Python or R scripts into Power BI allows you to leverage the power of these programming languages for more advanced data analysis, transformations, or custom visualizations within Power BI. This can be particularly useful when you need to perform complex calculations or build sophisticated models that aren't readily available with Power BI's built-in features.
 
