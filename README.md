@@ -19,7 +19,7 @@ Creating a Power BI report that integrates data from multiple sources involves c
 
 https://github.com/NIKHIL-1200/power-bi-dashboard/blob/main/task2.a.pbix.
 
-##integration with python
+#integration with python
 
 Integrating Python or R scripts into Power BI allows you to leverage the power of these programming languages for more advanced data analysis, transformations, or custom visualizations within Power BI. This can be particularly useful when you need to perform complex calculations or build sophisticated models that aren't readily available with Power BI's built-in features.
 
