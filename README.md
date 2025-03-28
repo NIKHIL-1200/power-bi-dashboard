@@ -37,6 +37,10 @@ https://github.com/NIKHIL-1200/power-bi-dashboard/blob/main/task4.pbix
 
 
 
+##REAL-TIME DASHBOARD
+
+
+
 
 
 A real-time dashboard is a tool used to visualize and track key metrics and data in real time. It allows users to monitor performance, analyze trends, and make informed decisions based on live data streams. Real-time dashboards are commonly used in various industries such as business analytics, operations, finance, marketing, and IoT (Internet of Things).
